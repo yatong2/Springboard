@@ -1,4 +1,4 @@
-# Final Report: Data Mining on Airbnb New User Bookings
+# Final Report: Airbnb New User Bookings Exploration
 ## Define the problem
 The problem in this project is that where would the new users book their first booking based on their personal information (gender, age, etc.) and web activity information (signup method, affiliate channel, first browser, etc.). This is a multiclass classification problem.
 ## Identify the client
